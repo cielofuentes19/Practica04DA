@@ -1,0 +1,25 @@
+﻿.bg-main {
+    background-color: #AAD500;
+    color: white;
+}
+.product-img{
+    max-width: 80px !important;
+    display:block;
+    margin:auto;
+}
+.center{
+    justify-content:center;
+    vertical-align:middle;
+    text-align:center;
+}
+.p-2rem{
+    padding:2rem;
+}
+.hand{
+    cursor:pointer;
+}
+.img-form {
+    max-width: 300px !important;
+    display:block;
+    margin:auto;
+}
